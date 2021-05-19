@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Polygon_Comparable
+comment0.text=\r\n\ \r\n\ Polygon\ is\ the\ base\ class\ for\ Chap_9_ShapesPolygon_Interface_ArrayList\ project.\r\n\ \r\n\ (1)\ Write\ the\ Polygon_Comparable\ interface\ that\ has\ 4\ abstract\ methods\ in\ it.\ \r\n\ \ \ \ \ calculateArea()\ -\ used\ for\ calculating\ the\ area.\ \ (returns\ void)\r\n\ \ \ \ \ getMyArea()\ -\ used\ to\ get\ the\ area.\ \ (returns\ a\ double)\r\n\ \ \ \ \ getMyType()\ -\ used\ to\ get\ the\ type\ of\ Shape\ int\ the\ subclasses(returns\ String)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Ex.\ Isocelese,\ Square,\ Hexagon,\ Circle,\ etc\r\n\ \ \ \ \ getMyCategory()\ -\ used\ to\ get\ the\ category\ of\ whatever\ shape.\ (returns\ String)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Ex.\ Triangles,\ Quadrilaterals,\ Agon,\ Rounds\r\n\ \ \ \ \ \r\n\ \ \ \ \ (2)\ This\ Interface\ will\ "extend\ Comparable"\ as\ one\ Interface\ "extend"\ 's\ another\r\n\ \ \ \ \ \ \ \ \ and\ does\ NOT\ "implement"\ another.\ You\ will\ have\ to\ override\ 'compareTo()'\ in\r\n\ \ \ \ \ \ \ \ \ your\ subclasses.\r\n\ \ \ \ \ \ Note\:\ compareTo()\ -\ used\ to\ compare\ to\ Shapes\ area.\ \ (returns\ an\ int\ /\ takes\ in\ an\ Object)\r\n\ \ \ \ \ \r\n
+comment1.params=
+comment1.target=void\ calculateArea()
+comment2.params=
+comment2.target=double\ getMyArea()
+comment3.params=
+comment3.target=java.lang.String\ getMyType()
+comment4.params=
+comment4.target=java.lang.String\ getMyCategory()
+numComments=5

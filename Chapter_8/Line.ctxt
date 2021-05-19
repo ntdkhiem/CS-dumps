@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ Building\ Java\ Programs\r\n\ 2nd\ Edition\r\n\ Chapter\ 8\r\n\ Line\:\ Pg\ 569\ Exercise\ \#14-17\ \ \ \r\n
+comment1.params=
+comment1.target=Line()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=Line(int,\ int,\ int,\ int)
+comment3.params=p1\ p2
+comment3.target=Line(Point,\ Point)
+comment4.params=
+comment4.target=Point\ getP1()
+comment4.text=\r\n\ \ \ \ //\ SECOND\ way\ that\ constructs\ a\ new\ Line\ given\ the\ X\ and\ Y\ values.\r\n\ \ \ \ //\ Call\ Line(Point,\ Point)\ via\ the\ 'this'\ ptr.\r\n\ \ \ \ public\ Line(int\ x1,\ int\ y1,\ int\ x2,\ int\ y2)\ \r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ this(new\ Point(x1,\ y1),\ new\ Point(x2,\ y2));\r\n\ \ \ \ }\r\n
+comment5.params=
+comment5.target=Point\ getP2()
+comment6.params=p
+comment6.target=boolean\ isCollinear(Point)
+comment7.params=
+comment7.target=double\ getSlope()
+comment8.params=p1\ p2
+comment8.target=double\ getSlope(Point,\ Point)
+comment9.params=value\ places
+comment9.target=double\ round(double,\ int)
+numComments=11

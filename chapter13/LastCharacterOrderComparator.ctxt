@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LastCharacterOrderComparator
+comment1.params=s1\ s2
+comment1.target=int\ compare(java.lang.String,\ java.lang.String)
+numComments=2

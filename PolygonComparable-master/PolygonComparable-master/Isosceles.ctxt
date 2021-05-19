@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Isosceles
+comment1.params=
+comment1.target=Isosceles()
+comment2.params=base\ height
+comment2.target=Isosceles(double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getMyType()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

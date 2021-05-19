@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=lst
+comment2.target=void\ bucketSort(int[])
+comment3.params=max
+comment3.target=int\ findPower(int)
+numComments=4

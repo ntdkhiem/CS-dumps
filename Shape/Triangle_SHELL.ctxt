@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Triangle_SHELL
+comment0.text=\r\n\ Triangle\:\r\n\ \ \ -\ Is\ a\ subclass\ of\ Shape\r\n\ \ \ -\ 3\ instance\ variables\ all\ of\ type\ double\:\ a,\ b,\ c\ \r\n\ \ \ -\ Has\ 2\ constructors\:\ \r\n\ \ \ \ \ \ -\ No-Argument\ constructor\ that\ sets\ the\ instance\ variables\ to\ 0.0\r\n\ \ \ \ \ \ -\ 3\ parameter\ constructor\ that\ takes\ in\ a,\ b,\ c\ and\ sets\ \r\n\ \ \ \ \ \ \ \ the\ instance\ variables\ accordingly.\r\n\ \ \ \ \ \ -\ getArea()\ that\ returns\ the\ area\ of\ the\ triangle\:\r\n\ \ \ \ \ \ \ \ \ Triangle's\ area\ \=\ Math.sqrt(s\ *\ (s\ -\ a)\ *\ (s\ -\ b)\ *\ (s\ -\ c))\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ with\ s\ \=\ (a\ +\ b\ +\ c)\ /\ 2.0;\r\n\ \ \ \ \ \ -\ getPerimeter(\ )\ that\ returns\ the\ perimeter\ of\ the\ rectangle\:\ a\ +\ b\ +\ c\r\n\ \ \ \ \ \ \r\n
+numComments=1

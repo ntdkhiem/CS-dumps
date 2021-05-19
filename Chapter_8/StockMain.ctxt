@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StockMain
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=currentStock\ console
+comment2.target=double\ makePurchases(Stock,\ java.util.Scanner)
+numComments=3

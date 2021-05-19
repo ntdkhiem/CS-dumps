@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UnweightedGraph
+comment1.params=
+comment1.target=UnweightedGraph()
+comment1.text=Construct\ an\ empty\ graph
+comment2.params=vertices\ edges
+comment2.target=UnweightedGraph(java.lang.Object[],\ int[][])
+comment2.text=Construct\ a\ graph\ from\ vertices\ and\ edges\ stored\ in\ arrays
+comment3.params=edges\ numberOfVertices
+comment3.target=UnweightedGraph(int[][],\ int)
+comment3.text=Construct\ a\ graph\ from\ integer\ vertices\ 0,\ 1,\ and\ edge\ array
+numComments=4

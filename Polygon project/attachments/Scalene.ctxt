@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Scalene
+comment0.text=\r\n\ (1)\ Have\ the\ Scalene\ class\ extend\ Triangles.\ \ \r\n\ (2)\ Write\ 2\ constructors\:\ \ (a)\ the\ default\ that\ calls\ the\ super\ classes\ default\ \r\n\ \ \ \ \ constructor\ and\ (b)\ One\ that\ takes\ in\ 2\ doubles\ representing\ the\ base\ and\ \r\n\ \ \ \ \ the\ height.\ \ It\ should\ then\ call\ the\ super\ classes\ constructor\ with\ these\ \r\n\ \ \ \ \ 2\ arguments.\r\n\ (3)\ Override\ the\ method\ getMyType()\ that\ returns\ "Scalene"\r\n
+comment1.params=
+comment1.target=Scalene()
+comment2.params=base\ height
+comment2.target=Scalene(double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getMyType()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

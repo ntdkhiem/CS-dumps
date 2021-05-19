@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Shape\:\ -\ Superclass\ to\ Rectangle,\ Triangle,\ Circle\ -\ Has\ a\ No-Argument\ constructor\ -\ Has\ 2\ dummy\ accessor\ methods\ [get(\ )]\ that\ do\ not\ have\ real\ meaningful\ values\:\ -\ getArea(\ )\ that\ returns\ 0.0\ -\ getPerimeter(\ )\ that\ returns\ 0.0\r\n
+comment1.params=
+comment1.target=Shape()
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPerimeter()
+numComments=4

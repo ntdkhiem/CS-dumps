@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=
+comment1.target=Employee()
+comment2.params=name
+comment2.target=Employee(java.lang.String)
+comment3.params=that
+comment3.target=boolean\ equals(Employee)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getHours()
+comment6.params=
+comment6.target=double\ getSalary()
+comment7.params=
+comment7.target=int\ getVacationDays()
+comment8.params=
+comment8.target=java.lang.String\ getVacationForm()
+numComments=9

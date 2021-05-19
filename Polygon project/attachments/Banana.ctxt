@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Banana
+comment1.params=
+comment1.target=Banana()
+comment2.params=type\ calories
+comment2.target=Banana(java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getCategory()
+comment5.params=
+comment5.target=double\ getCalories()
+comment6.params=newType
+comment6.target=void\ setType(java.lang.String)
+comment7.params=newCalories
+comment7.target=void\ setCalories(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

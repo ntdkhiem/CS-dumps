@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=RationalNumber
+comment1.params=
+comment1.target=RationalNumber()
+comment10.params=r
+comment10.target=void\ subtract(RationalNumber)
+comment2.params=numerator\ denominator
+comment2.target=RationalNumber(int,\ int)
+comment3.params=
+comment3.target=int\ getNumerator()
+comment4.params=
+comment4.target=int\ getDenominator()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ GCF()
+comment7.params=r
+comment7.target=void\ multiply(RationalNumber)
+comment8.params=r
+comment8.target=void\ divide(RationalNumber)
+comment9.params=r
+comment9.target=void\ add(RationalNumber)
+numComments=11

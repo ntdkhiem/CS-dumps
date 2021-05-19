@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment2.params=name\ type\ isConsumable\ totalProtein
+comment2.target=Food(java.lang.String,\ java.lang.String,\ boolean,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=boolean\ checkConsumable()
+comment6.params=
+comment6.target=double\ getProtein()
+comment7.params=bool
+comment7.target=void\ setConsumable(boolean)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

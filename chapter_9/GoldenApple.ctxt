@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GoldenApple
+comment1.params=vitamin\ calories\ name\ total
+comment1.target=GoldenApple(int,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getTotal()
+numComments=3

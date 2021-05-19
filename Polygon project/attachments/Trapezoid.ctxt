@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trapezoid
+comment1.params=
+comment1.target=Trapezoid()
+comment2.params=base1\ base2\ height
+comment2.target=Trapezoid(double,\ double,\ double)
+comment3.params=
+comment3.target=void\ calculateArea()
+comment4.params=
+comment4.target=java.lang.String\ getMyType()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

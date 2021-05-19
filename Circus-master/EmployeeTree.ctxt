@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EmployeeTree
+comment1.params=
+comment1.target=EmployeeTree()
+comment2.params=cp1
+comment2.target=EmployeeTree(NameComparator)
+comment3.params=empl
+comment3.target=void\ add(Employee)
+comment4.params=localRoot\ node
+comment4.target=EmployeeTreeNode\ add(EmployeeTreeNode,\ EmployeeTreeNode)
+comment5.params=ss
+comment5.target=void\ deleteEmployee(java.lang.String)
+comment6.params=localRoot\ ss
+comment6.target=EmployeeTreeNode\ deleteEmployee(EmployeeTreeNode,\ java.lang.String)
+comment7.params=root
+comment7.target=Employee\ findSmallestSS(EmployeeTreeNode)
+comment8.params=
+comment8.target=EmployeeTreeNode\ getRoot()
+numComments=9

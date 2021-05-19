@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Exercises
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s
+comment2.target=java.util.Stack\ collapse(java.util.Stack)
+comment3.params=s
+comment3.target=java.util.Stack\ reorder(java.util.Queue)
+comment4.params=q
+comment4.target=void\ mirrorHalves(java.util.Queue)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MemoryMatch
+comment1.params=
+comment1.target=void\ main()
+comment2.params=size
+comment2.target=void\ memory(int)
+comment3.params=board\ scoreCount\ printElement
+comment3.target=void\ printBoard(int[],\ int[],\ boolean[])
+numComments=4

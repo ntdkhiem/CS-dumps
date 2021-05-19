@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Translation_Dictionary_SHELL
+comment1.params=
+comment1.target=void\ main()
+comment2.params=dictionary\ word\ wordTranslation
+comment2.target=void\ add(java.util.Map,\ java.lang.String,\ java.lang.String)
+comment3.params=d
+comment3.target=java.util.Map\ reverse(java.util.Map)
+comment3.text=\ Write\ a\ method\ that\ takes\ a\ dictionary\ and\ generates\ a\ reverse\ dictioanry.\ \ A\ reverse\r\n\ dictionary\ uses\ the\ same\ structure\ as\ the\ original\ dictionary,\ and\ for\ each\ pair\ \r\n\ (word,\ translations)\ in\ the\ original\ dictionary\ there\ is\ a\ reversed\ pair\ (translation,\ word)\ \r\n\ in\ the\ reverse\ dictionary.\ For\ example,\ if\ you\ can\ find\ holiday->fiesta\ in\ an\ English->Spanish\ \r\n\ dictionary,\ you\ should\ be\ able\ to\ find\ fiesta->holiday\ in\ its\ reverse\ Spanish->English\ dictionary.\ \r\n\ Write\ reverse\ as\ started\ below.\ \ You\ can\ assume\ that\ the\ add\ method\ from\ Part\ (a)\ is\ in\ the\ same\ \r\n\ class\ and\ works\ as\ specified.\r\n\ \r\n\ precondition\:\ \ dictionary\ \!\=\ null\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ dictionary\ associates\ a\ TreeSet\ of\ translations\ with\ each\ word.\r\n\ postcondition\:\ returns\ a\ reverse\ dictionary\ with\ a\ similar\ structure\ and\ the\ following\ property\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ word2\ is\ in\ the\ set\ of\ translations\ associated\ with\ word1\ if\ and\ only\ if\ word1\ is\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ set\ of\ translations\ associated\ with\ word2\ in\ the\ original\ dictionary.\r\n\ \r\n
+comment4.params=d\ language1\ language2
+comment4.target=void\ printDictionary(java.util.Map,\ java.lang.String,\ java.lang.String)
+numComments=5

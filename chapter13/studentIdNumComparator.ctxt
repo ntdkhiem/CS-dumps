@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=studentIdNumComparator
+comment1.params=stu1\ stu2
+comment1.target=int\ compare(Student,\ Student)
+numComments=2

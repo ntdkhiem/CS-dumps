@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Apple
+comment1.params=vitamin\ calories\ name
+comment1.target=Apple(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getVitamin()
+comment3.params=
+comment3.target=int\ getCalories()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=newVitamin
+comment5.target=void\ setVitamin(int)
+comment6.params=newCalories
+comment6.target=void\ setCalories(int)
+comment7.params=newName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=int\ getTotal()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Janitor
+comment1.params=
+comment1.target=void\ clean()
+comment2.params=
+comment2.target=int\ getHours()
+comment3.params=
+comment3.target=int\ getVacationDays()
+comment4.params=
+comment4.target=double\ getSalary()
+numComments=5

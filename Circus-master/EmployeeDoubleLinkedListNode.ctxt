@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EmployeeDoubleLinkedListNode
+comment1.params=d
+comment1.target=EmployeeDoubleLinkedListNode(EmployeeTreeNode)
+comment2.params=
+comment2.target=EmployeeDoubleLinkedListNode\ getNext()
+comment3.params=l
+comment3.target=void\ setNext(EmployeeDoubleLinkedListNode)
+comment4.params=
+comment4.target=EmployeeDoubleLinkedListNode\ getPrevious()
+comment5.params=r
+comment5.target=void\ setPrevious(EmployeeDoubleLinkedListNode)
+comment6.params=
+comment6.target=EmployeeTreeNode\ getEmployeeTreeNode()
+numComments=7

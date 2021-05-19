@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Line_CLIENT
+comment0.text=\r\n\ Building\ Java\ Programs\r\n\ 2nd\ Edition\r\n\ Chapter\ 8\r\n\ Line\ Ex\#9-12\r\n\ \r\n\r\n\ OUTPUT\:\r\n\ \ \ \ Line\ -\ Exercise\ \#9\:\r\nline1.getP1()\ \=\ (1,1)\r\nline1.getP2()\ \=\ (7,5)\r\nline1\ \=\ [(1,1),\ (7,5)]\r\n\r\n\ \ \ \ Line\ -\ Exercise\ \#10\:\r\nline1.getSlope()\ \=\ 0.6666666666666666\r\n\r\n\ \ \ \ Line\ -\ Exercise\ \#11\:\r\nline2\ \=\ [(2,2),\ (2,10)]\r\nline2\ \=\ [(3,7),\ (10,7)]\r\n\r\n\ \ \ \ Line\ -\ Exercise\ \#12\:\r\n\ \ These\ isCollinear\ ones\ SHOULD\ work\:\r\nline1.isCollinear(p1))\ \=\ true\r\nline2.isCollinear(p2))\ \=\ true\r\nline3.isCollinear(p3))\ \=\ true\r\n\ \ These\ isCollinear\ ones\ should\ NOT\ work\:\r\nline1.isCollinear(p4))\ \=\ false\r\nline2.isCollinear(p4))\ \=\ false\r\nline3.isCollinear(p4))\ \=\ false\r\n\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

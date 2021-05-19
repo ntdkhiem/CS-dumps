@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GridProblem
+comment1.params=
+comment1.target=void\ main()
+comment2.params=grid
+comment2.target=void\ alter(boolean[][])
+comment3.params=grid\ arraysOfCoords\ arrayOfCoords\ row\ col
+comment3.target=boolean\ explore(boolean[][],\ java.util.ArrayList,\ java.util.ArrayList,\ int,\ int)
+comment4.params=grid\ row\ col
+comment4.target=boolean\ isInbound(boolean[][],\ int,\ int)
+comment5.params=arrayOfCoords
+comment5.target=void\ displayArrayOfCoords(java.util.ArrayList)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=quickSort
+comment1.params=
+comment1.target=void\ main()
+comment2.params=lst\ startSubScript\ endSubScript
+comment2.target=void\ quickSort(int[],\ int,\ int)
+comment3.params=lst\ begin\ end
+comment3.target=int\ partition(int[],\ int,\ int)
+comment4.params=list\ num1\ num2
+comment4.target=void\ swap(int[],\ int,\ int)
+comment5.params=list
+comment5.target=void\ printArray(int[])
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lawyer
+comment1.params=
+comment1.target=int\ getVacationDays()
+comment2.params=
+comment2.target=java.lang.String\ getVacationForm()
+comment3.params=
+comment3.target=void\ sue()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FindStringChallenge
+comment1.params=
+comment1.target=void\ main()
+comment2.params=m\ s
+comment2.target=java.util.ArrayList\ findString(char[][],\ java.lang.String)
+comment3.params=m\ s
+comment3.target=java.util.ArrayList\ findStringC(char[][],\ java.lang.String)
+comment4.params=board\ str\ coords\ r_coord\ c_coord\ count
+comment4.target=boolean\ explore(char[][],\ java.lang.String,\ java.util.ArrayList,\ int,\ int,\ int)
+comment5.params=board\ r_coord\ c_coord
+comment5.target=boolean\ isInbound(char[][],\ int,\ int)
+numComments=6

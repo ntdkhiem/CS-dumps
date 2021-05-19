@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Circus_Client
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=console
+comment2.target=int\ menu(java.util.Scanner)
+comment3.params=console
+comment3.target=Employee\ newEmployee(java.util.Scanner)
+comment4.params=console
+comment4.target=java.lang.String\ chooseCategory(java.util.Scanner)
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LL_Basic_Outline_CLIENT_WRONG
+comment1.params=
+comment1.target=void\ main()
+comment2.params=h
+comment2.target=void\ inputNum(Node)
+comment3.params=h
+comment3.target=void\ printList(Node)
+comment4.params=
+comment4.target=void\ quit()
+numComments=5

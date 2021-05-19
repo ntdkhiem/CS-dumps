@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ArrayIntList
+comment1.params=
+comment1.target=ArrayIntList()
+comment10.params=value
+comment10.target=void\ add(int)
+comment11.params=index\ value
+comment11.target=void\ add(int,\ int)
+comment12.params=index
+comment12.target=void\ remove(int)
+comment2.params=capacity
+comment2.target=ArrayIntList(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=index
+comment4.target=int\ get(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=value
+comment6.target=int\ indexOf(int)
+comment7.params=value
+comment7.target=int\ lastIndexOf(int)
+comment8.params=other
+comment8.target=int\ indexOfSubList(ArrayIntList)
+comment9.params=item\ newItem
+comment9.target=void\ replaceAll(int,\ int)
+numComments=13

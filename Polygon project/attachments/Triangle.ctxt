@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n(1)\ Write\ the\ abstract\ 'Triangles'\ class\ and\ have\ it\ implement\ 'Polygon_Comparable'\ \r\n(2)\ It\ has\ 3\ instance\ variables\ all\ of\ type\ double\:\ myBase,\ myHeight,\ and\ myArea.\r\n(3)\ It\ has\ 2\ constructors\:\ the\ default\ and\ one\ that\ takes\ in\ 2\ doubles\ for\ the\ base\ and\ height.\r\n(4)\ Write/implement\ getMyCategory()\ returns\ "Triangles"\r\nNOTE\:\ Write/implement\ getMyType()\ in\ EACH\ of\ the\ subclasses\ and\ NOT\ here\!\r\n(5)\ Write\ 'compareTo()'\ which\ compares\ 2\ polygons\ via\ their\ area.\r\n
+comment1.params=
+comment1.target=Triangle()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=base\ height
+comment2.target=Triangle(double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getMyCategory()
+comment4.params=
+comment4.target=void\ calculateArea()
+comment5.params=
+comment5.target=double\ getMyArea()
+comment6.params=
+comment6.target=double\ getMyBase()
+comment7.params=b
+comment7.target=void\ setMyBase(double)
+comment8.params=h
+comment8.target=void\ setMyHeight(double)
+comment9.params=other
+comment9.target=int\ compareTo(Polygon_Comparable)
+numComments=11

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SemiCircle
+comment1.params=
+comment1.target=SemiCircle()
+comment2.params=radius
+comment2.target=SemiCircle(double)
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getPerimeter()
+numComments=5

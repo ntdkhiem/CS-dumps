@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=pascalTriangle
+comment1.params=
+comment1.target=void\ main()
+comment2.params=size
+comment2.target=void\ method1(int)
+comment3.params=size
+comment3.target=void\ method2(int)
+comment4.params=size
+comment4.target=void\ method3(int)
+comment5.params=size
+comment5.target=void\ method4(int)
+numComments=6

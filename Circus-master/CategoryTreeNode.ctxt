@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CategoryTreeNode
+comment1.params=t
+comment1.target=CategoryTreeNode(java.lang.String)
+comment2.params=
+comment2.target=CategoryTreeNode\ getLeft()
+comment3.params=l
+comment3.target=void\ setLeft(CategoryTreeNode)
+comment4.params=
+comment4.target=CategoryTreeNode\ getRight()
+comment5.params=r
+comment5.target=void\ setRight(CategoryTreeNode)
+comment6.params=
+comment6.target=EmployeeTree\ getEmployees()
+comment7.params=node
+comment7.target=void\ setData(CategoryTreeNode)
+comment8.params=
+comment8.target=java.lang.String\ getTitle()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

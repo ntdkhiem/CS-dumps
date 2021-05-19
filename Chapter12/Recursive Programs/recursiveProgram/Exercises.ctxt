@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Exercises
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=int\ doubleDigits(int)
+comment3.params=s\ n
+comment3.target=java.lang.String\ repeat(java.lang.String,\ int)
+numComments=4

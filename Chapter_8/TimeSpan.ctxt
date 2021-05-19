@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TimeSpan
+comment1.params=hours\ minutes
+comment1.target=TimeSpan(int,\ int)
+comment2.params=hours\ minutes
+comment2.target=void\ add(int,\ int)
+comment3.params=hours\ minutes
+comment3.target=void\ subtract(int,\ int)
+comment4.params=factor
+comment4.target=void\ scale(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

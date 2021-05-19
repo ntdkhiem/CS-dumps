@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=SemiCircle_SHELL
+comment0.text=\r\n\ SemiCircle\:\r\n\ \ \ -\ Is\ a\ subclass\ of\ Circle\r\n\ \ \ -\ Has\ 2\ constructors\:\ \r\n\ \ \ \ \ \ -\ No-Argument\ constructor\ that\ sets\ the\ instance\ variable\ to\ 0.0\r\n\ \ \ \ \ \ -\ 1\ parameter\ constructor\ that\ takes\ in\ the\ radius\ and\ sets\ \r\n\ \ \ \ \ \ \ \ the\ instance\ variable\ accordingly\ via\ its\ super\ class.\r\n\ \ \ \ \ \ -\ getArea()\ that\ returns\ the\ area\ of\ the\ semicircle\:\ 0.5\ *\ (Math.PI\ *\ radius\ *\ radius;)\r\n\ \ \ \ \ \ -\ getPerimeter(\ )\ that\ returns\ the\ perimeter\ of\ the\ semicircle\:\ 0.5\ *\ (2.0\ *\ Math.PI\ *\ radius)\ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \r\n
+numComments=1

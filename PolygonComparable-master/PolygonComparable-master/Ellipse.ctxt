@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ellipse
+comment1.params=
+comment1.target=Ellipse()
+comment2.params=radius\ radius2
+comment2.target=Ellipse(double,\ double)
+comment3.params=radius2
+comment3.target=void\ setMyRadius2(double)
+comment4.params=
+comment4.target=double\ getMyRadius2()
+comment5.params=
+comment5.target=void\ calculateArea()
+comment6.params=
+comment6.target=java.lang.String\ getMyType()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
